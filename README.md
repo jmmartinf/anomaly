@@ -11,9 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Análisis general de la serie de tiempo
+## Comportamiento de la serie
+## Valores anómalos recientes
+## Ciclicidad de la serie
 
 - Bulleted
 - List
